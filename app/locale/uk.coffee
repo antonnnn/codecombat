@@ -17,7 +17,7 @@ module.exports = nativeDescription: "Українська", englishDescription: 
     play: "Грати" # The top nav bar entry where players choose which levels to play
     community: "Спільнота"
     editor: "Редактор"
-    blog: "Блоґ"
+    blog: "Блог"
     forum: "Форум"
     account: "Акаунт"
     profile: "Профіль"
